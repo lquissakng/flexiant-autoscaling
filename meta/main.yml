@@ -1,0 +1,6 @@
+galaxy_info:
+ author: Luis Quissak
+ description: Role for Autoscaling upgrades
+ license: GPLv3
+ min_ansible_version: 2.4.1.0
+ github_branch: master
