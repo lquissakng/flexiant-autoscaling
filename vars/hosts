@@ -1,0 +1,6 @@
+[haproxy]
+haproxy1
+haproxy2
+
+[monitor]
+monitor
